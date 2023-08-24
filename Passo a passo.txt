@@ -1,0 +1,21 @@
+Bruno Lauand Ferrão - 32217994
+Raul Vilhora Cardoso Matias - 32267274
+
+
+Passo a passo:
+
+- Criamos uma instância na AWS
+
+- Criamos o repositório no Git com o código do Hello World em C
+
+- Me conectei na instância pelo PowerShell
+
+- Instalei o git dentro da instância
+
+- Criei uma pasta dentro da instância e inicializei o git nela
+
+- Clonei o repositório do Git dentro da pasta
+
+- Instalei o compilador GCC
+
+- Compilei o arquivo do Hello World e executei o arquivo
